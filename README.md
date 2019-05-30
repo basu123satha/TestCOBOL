@@ -1,2 +1,7 @@
-# TestCOBOL
-Demo 1.1.1.1.1.1.
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID.    SAMDATA.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+           Display 'Hello Gihub'.
+
