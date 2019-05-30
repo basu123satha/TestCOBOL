@@ -3,5 +3,5 @@
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        PROCEDURE DIVISION.
-           Display 'Hello Gihub'.
+           Display 'Hello GitHub'.
 
