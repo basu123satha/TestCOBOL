@@ -4,4 +4,5 @@
        DATA DIVISION.
        PROCEDURE DIVISION.
            Display 'Hello GitHub'.
+           Display 'Hello'.
 
